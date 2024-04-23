@@ -16,11 +16,11 @@ Developed as part of a technical assessment, this project not only serves as a f
 ### Project Structure
 
 #### Frontend
-- **Technologies**: Next.js, React Query, Shadcn + Tailwind CSS
+- **Technologies**: Next.js, React Query, Shadcn + Tailwind CSS, Socket.io
 - **Repository**: [Quo Pro Frontend on GitHub](https://github.com/quo-pro/quo-pro-frontend)
 
 ### Backend
-- **Technologies**: NestJS, MongoDB
+- **Technologies**: NestJS, MongoDB, Socket.io
 - **Deployment**: Hosted on Railway
 - **API Documentation**: [Swagger API Docs](https://quo-pro-backend-production.up.railway.app/api/v1/api-docs)
 - **Repositories**:
